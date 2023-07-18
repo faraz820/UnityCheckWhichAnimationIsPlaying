@@ -1,0 +1,1 @@
+player.animator.GetCurrentAnimatorStateInfo(layer int).IsName("animation name")
